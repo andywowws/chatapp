@@ -8,4 +8,3 @@
 `void show_chat()`查看所有聊天  
 把login.cpp下载保存到你需要用到的那个程序的相同目录,然后直接`#include "login.cpp"`    
 - [ ] 哈哈
-- [ ] 额
